@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "choco": "^0.2.1",
+    "react-icons": "^4.7.1",
+    "sentiment": "^5.0.2"
+  }
+}
